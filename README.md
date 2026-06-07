@@ -26,7 +26,6 @@ The dashboard transforms raw cryptocurrency data into actionable insights using:
 ✔ Interactive Business Intelligence Visualizations
 
 
-
 Designed for:
 
 * Data Analysts
@@ -236,11 +235,11 @@ Improves exploratory analytics.
 ```bash id="0ivd8l"
 Cryptocurrency-Market-Analysis/
 │
-├── CryptoMarketAnalysis.pbix
-│
 ├── Images/
 │     ├── dashboard_with_filter.png
 │     └── dashboard_without_filter
+│
+├── CryptoMarketAnalysis.pbix
 │
 └── README.md
 ```
